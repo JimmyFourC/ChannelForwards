@@ -1,0 +1,4 @@
+asyncio
+PyYAML
+telethon
+python-dotenv

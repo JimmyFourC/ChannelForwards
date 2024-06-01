@@ -1,0 +1,11 @@
+files:
+  sourcemessages: source_messages.txt
+  forwardedmessages: forwarded_messages.txt
+
+queues:
+  source_queue: source_queue.txt
+
+session_file: YOUR_SESSION_FILE_PATH
+
+logs:
+  filename: log.txt
